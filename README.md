@@ -21,4 +21,4 @@ For further moves, input your move in row * column coordinate format, utilizing 
 e.g. 6 * 8
 
 
-For more examples, look at input.txt file. 
+
